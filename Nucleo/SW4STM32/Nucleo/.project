@@ -190,5 +190,9 @@
 			<type>1</type>
 			<location>PARENT-2-PROJECT_LOC/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F/port.c</location>
 		</link>
-  </linkedResources>
+  <link>
+      <name>Application/User/stm32f4xx_hal_timebase_tim.c</name>
+      <type>1</type>
+      <location>PARENT-2-PROJECT_LOC/Src/stm32f4xx_hal_timebase_tim.c</location>
+    </link></linkedResources>
 </projectDescription>
